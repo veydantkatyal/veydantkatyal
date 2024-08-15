@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1" alt="MasterHead" width="100%" />
 </div>
-<h1 align="center">Hi 👋, I'm Veydant Katyal</h1>
+<h1 align="center">Hi 👋, I'm Veydant Katya</h1>
 <h3 align="center">Your friendly neighbourhood Data Scientist</h3>
 <img align="right" alt="Coding" width="450" style="margin-top: 20px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veydantkatyal&label=Profile%20views&color=0e75b6&style=flat" alt="veydantkatyal" /> </p>
