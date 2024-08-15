@@ -2,7 +2,7 @@ name: Update Medium Posts in README
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Run weekly on Sundays at midnight
+    - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -12,11 +12,11 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to the latest version of actions/checkout
 
       - name: Update README with Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@veydantkatyal"  # Your Medium RSS feed URL
           max_post_count: "5"  # Adjust the number of posts you want to display
-          readme_file_path: "README.md"  # Path to your README file
+          readme_path: "README.md"  # Corrected input name
