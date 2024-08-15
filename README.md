@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Data Science & AWS**
 
-- 👯 I’m looking to collaborate on **ML,Rust,AWS**
+- 👯 I’m looking to collaborate on **ML,Rust,AWS
+  
+- 📝 I regularly write articles on [Medium](https://medium.com/@veydantkatyal)
 
 - 💬 Ask me about **Machine Learning & Blockchain**
 
@@ -22,6 +24,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
