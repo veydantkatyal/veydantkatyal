@@ -1,0 +1,23 @@
+name: Update Contribution Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up jq
+        run: sudo apt-get install jq
+
+      - name: Run update script
+        run: |
+          chmod +x ./update_stats.sh
+          ./update_stats.sh
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.TOKEN }}  # Use your chosen secret name
