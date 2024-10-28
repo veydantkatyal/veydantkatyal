@@ -20,4 +20,4 @@ jobs:
           chmod +x ./update_stats.sh
           ./update_stats.sh
         env:
-          MY_GITHUB_TOKEN: ${{ secrets.TOKEN }}  # Use your chosen secret name
+          TOKEN: ${{ secrets.TOKEN }}  # Use your chosen secret name
