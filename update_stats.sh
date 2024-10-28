@@ -2,7 +2,7 @@
 
 # Set your GitHub username and use the token from the secret
 USERNAME="veydantkatyal"
-TOKEN="${{ secrets.GITHUB_TOKEN }}"  # Accessed via GitHub Actions
+TOKEN="${{ secrets.TOKEN }}"  # Accessed via GitHub Actions
 
 # Fetch contribution stats from both public and private repos
 TOTAL_REPOSITORIES=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/users/$USERNAME/repos?per_page=100" | jq '. | length')
