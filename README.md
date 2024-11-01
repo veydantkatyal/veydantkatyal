@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science & AWS**
 
-- 👯 I’m looking to collaborate on **ML,Rust,AWS
+- 👯 I’m looking to collaborate on **ML & AWS**
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@veydantkatyal)
 
