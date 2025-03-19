@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1" alt="MasterHead" width="100%" />
+    <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="MasterHead" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Veydant Katyal</h1>
 <h3 align="center">Your friendly neighbourhood Data Scientist</h3>
@@ -7,19 +7,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veydantkatyal&label=Profile%20views&color=0e75b6&style=flat" alt="veydantkatyal" /> </p>
 
 
-- 🔭 I’m currently working on **Building end to end ML & DL Models**
+- 🔭 I’m currently working on **Building GenAI solutions**
 
-- 🌱 I’m currently learning **Data Science & AWS**
+- 🌱 I’m currently learning **MLOPS, Deep Learning & Cloud Computing**
 
-- 👯 I’m looking to collaborate on **ML & AWS**
+- 👯 I’m looking to collaborate on **end-to-end ML & DL Projects**
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@veydantkatyal)
 
-- 💬 Ask me about **Machine Learning & Blockchain**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **veydantkatyal@gmail.com**
 
-- ⚡ Fun fact **I am always on the lookout for a cup of coffee**
+- ⚡ Fun fact **I am always on the lookout for a cup of coffee and debugging code at 3 am**
 
 
 <h3 align="left">Connect with me:</h3>
